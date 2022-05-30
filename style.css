@@ -477,5 +477,25 @@ figcaption h3 {
     .textoSostenimiento .imagenPadrinos {
         width: 10rem;
     }
+
+    .textoDonaciones h3{
+        font-size: 1.3rem;
+    }
+    .donar{
+        font-size: 1.2rem;
+    }
+
+    .donar ul{
+        padding: 0%;
+    }
+
+    .textoAyuda{
+        flex-direction: column-reverse;
+    }
+
+    .textoAyuda h3{
+        margin: 0%;
+        font-size: 1.2rem ;
+    }
 }
 
